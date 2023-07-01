@@ -1,6 +1,5 @@
 # curso-front-end
 
-
 ## GiT
 ## Conceitos de versionamento
  - Histórico
