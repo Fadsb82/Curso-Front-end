@@ -1,0 +1,19 @@
+.card {
+    width: 32%;
+    float: left;
+    margin: 5px;
+}
+
+section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+input,
+textarea {
+    margin-bottom: 1rem;
+}
+
+table table-hover table-striped {
+    width: 50%;
+}
