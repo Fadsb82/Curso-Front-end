@@ -26,7 +26,7 @@ function calcularMedia( notas ) {
        return 'Media ' + media + ' -  Resultado: ' + condicao; 
     }
     
-            /*Funções Recursivas
+            //Funções Recursivas
 
             function contagemRegressiva(numero) {
 
@@ -38,16 +38,16 @@ function calcularMedia( notas ) {
                 media = soma / notas.length;
                 return media;
 
-            }*/
+            }
 
-            /* 
-               *Formulário de envio de dados para o cálculo da média 
-            * //var classAttribute = this.getAttribute('class');
+            
+               /*Formulário de envio de dados para o cálculo da média 
+                var classAttribute = this.getAttribute('class');
                     if (classAttribute !== null && classAttribute.match(/erro/)) {
                     
-                        return false;
+                       return false;
                     
-                    }*/
+                   }*/
 
                     const formulario1 = document.getElementById("formulario-01")
 

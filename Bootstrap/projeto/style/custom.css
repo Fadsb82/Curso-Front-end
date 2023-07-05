@@ -14,6 +14,7 @@ textarea {
     margin-bottom: 1rem;
 }
 
-table table-hover table-striped {
-    width: 50%;
-}
+.gradient {
+    background: linear-gradient(to left, #353331, #554d4f, #837f7f);
+  }
+  
