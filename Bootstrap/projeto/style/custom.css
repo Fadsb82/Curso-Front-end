@@ -15,6 +15,17 @@ textarea {
 }
 
 .gradient {
-    background: linear-gradient(to left, #353331, #554d4f, #837f7f);
+    background: linear-gradient(to left, #252422, #534a58, #a8a2a2);
   }
   
+.img-fluid-2 {
+    max-width: 63.5%;
+    position: relative;
+    left: 3.55rem;
+}
+
+.img-fluid-3 {
+    max-width: 87.55%;
+    position: relative;
+    left: 0.55rem;
+}

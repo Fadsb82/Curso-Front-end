@@ -47,3 +47,55 @@
 ```
    <a class="btn btn-lg">Botão</a>
 ```
+
+### Sem Bootstrap
+```
+ <a class="botao botao-grande">Botão</a>
+
+ <style>
+ html {
+     font-size: 62.5% 
+ }
+
+ .botao {
+    background-color: #ccc; 
+    border-radius: 2px; 
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.6rem;
+    padding: 1rem 2rem;
+    margin: 5px auto;
+    ...
+ }
+
+ .botao.grande {
+    font-size: 2rem;
+ }
+
+ .botao:hover { ... }
+ .botao:active { ... }
+ .botao:visited { ... }
+ 
+ </style>
+
+```
+
+# componenetes
+
+- Blocos / Modelos / Teplates Reutilizáveis
+https://getbooststrap.com/docs/5.1/componentes
+
+## Helpers
+- Funções básicas
+- Incrementos
+- Ajustes
+https://getbootstrap.com/docs/5.1/helpers
+
+## Font Awesome
+- Biblioteca de ícones
+- https://fontawesome.com/start/
+
+# Exercício
+- Incluir carousel na home antes de sobre 
+- Completar cadastro, tornando os campos obrigatórios
+- Incluir campos: bairro, complemento e telefone
