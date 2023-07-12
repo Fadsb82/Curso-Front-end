@@ -9,6 +9,37 @@ p {
 	color: #4a4a4a;
 	line-height: 24px;
 }
+
+#helpNome {
+    position: relative;
+	top: -1rem;
+}
+
+#nome {
+	position: relative;
+	top: -0.5rem;
+}
+
+#email { 
+	position: relative;
+	top: 5px;
+}
+
+#new-button {
+	position: relative;
+	top: 1rem;
+}
+
+#erro-h1 {
+	position: relative;
+	top: -60px;
+}
+
+#erro {
+    position: relative;
+	width: 50%;
+}
+
 a {
 	text-decoration: none!important;
 }
@@ -737,4 +768,12 @@ a {
 		text-align: left;
 	} 
 
+}
+
+.invalid {
+	border-color: #f00;
+}
+
+.text-muted {
+    display: none;
 }
