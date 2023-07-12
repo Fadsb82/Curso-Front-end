@@ -23,10 +23,14 @@
     $('#featured')// id
 ```
 
-## Compostos
+### Compostos
 
 ```
     $('h4, h6')
 
     $('div, h4') 
 ```
+
+## Plugins
+
+jQuery mask

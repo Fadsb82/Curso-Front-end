@@ -204,4 +204,15 @@
         })
         
         
+        $('body').on('blur', '#email', function(){
+            validate($(this))
+
+            if('#email' != '.' || '@' ){
+
+                alert('Escreva seu email corretamente')
+            }else{
+                return true
+            }
+        })
+
 })        

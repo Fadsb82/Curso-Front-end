@@ -10,24 +10,78 @@ p {
 	line-height: 24px;
 }
 
-#helpNome {
-    position: relative;
-	top: -1rem;
+#Nome {
+	position: relative;
+	top: -0.2rem;
 }
-
 #nome {
 	position: relative;
 	top: -0.5rem;
 }
 
+#Email { 
+	position: relative;
+	top: 0.5rem;
+}
 #email { 
 	position: relative;
-	top: 5px;
+	top: 0.5rem;
+}
+
+#Data {
+	position: relative;
+	top: 1rem;
+}
+
+#date {
+	position: relative;
+	top: 1rem;
+}
+
+#Hora {
+	position: relative;
+	top: 1.5rem;
+}
+
+#time {
+	position: relative;
+	top: 1.5rem;
+}
+
+#CEP {
+	position: relative;
+	top: 2.2rem;
+}
+
+#cep {
+	position: relative;
+	top: 2.5rem;
+}
+
+#Telefone{
+	position: relative;
+	top: 3.4rem;
+}
+
+#phone {
+	position: relative;
+	top: 3.5rem;
+}
+
+#CPF {
+	position: relative;
+	top: 4rem;
+}
+
+
+#cpf {
+	position: relative;
+	top: 3.75rem;
 }
 
 #new-button {
 	position: relative;
-	top: 1rem;
+	top: 5rem;
 }
 
 #erro-h1 {
