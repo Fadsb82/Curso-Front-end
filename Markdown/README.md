@@ -1,4 +1,4 @@
-# Curso-front-end
+# curso-front-end
 
 ## GiT
 ## Conceitos de versionamento
